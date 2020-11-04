@@ -8,17 +8,37 @@
   </url>
   
   <url>
+    <loc>https://sniper-lai.github.io/project/robocup/</loc>
+    <lastmod>2020-10-01T23:53:14-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sniper-lai.github.io/project/</loc>
     <lastmod>2020-10-01T23:53:14-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sniper-lai.github.io/project/ece271a1/</loc>
+    <loc>https://sniper-lai.github.io/tag/robotics/</loc>
     <lastmod>2020-10-01T23:53:14-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sniper-lai.github.io/project/my-porject-name/</loc>
+    <loc>https://sniper-lai.github.io/tags/</loc>
+    <lastmod>2020-10-01T23:53:14-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sniper-lai.github.io/tag/bci/</loc>
+    <lastmod>2020-10-01T12:04:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sniper-lai.github.io/tag/ml/</loc>
+    <lastmod>2020-10-01T12:04:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sniper-lai.github.io/project/transferlearning/</loc>
     <lastmod>2020-10-01T12:04:00-07:00</lastmod>
   </url>
   
@@ -83,10 +103,6 @@
   
   <url>
     <loc>https://sniper-lai.github.io/publication/ece276a1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sniper-lai.github.io/tags/</loc>
   </url>
   
   <url>

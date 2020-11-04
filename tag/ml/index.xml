@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML | Jiaming Lai</title>
+    <link>https://sniper-lai.github.io/tag/ml/</link>
+      <atom:link href="https://sniper-lai.github.io/tag/ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>ML</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 12:04:00 -0700</lastBuildDate>
+    <image>
+      <url>https://sniper-lai.github.io/images/icon_hud70415ccb18b7a6a6e17131008ce0b63_353587_512x512_fill_lanczos_center_2.png</url>
+      <title>ML</title>
+      <link>https://sniper-lai.github.io/tag/ml/</link>
+    </image>
+    
+    <item>
+      <title>Transfer Learning for Decoding ECoG Signals</title>
+      <link>https://sniper-lai.github.io/project/transferlearning/</link>
+      <pubDate>Thu, 01 Oct 2020 12:04:00 -0700</pubDate>
+      <guid>https://sniper-lai.github.io/project/transferlearning/</guid>
+      <description>&lt;p&gt;This is my ongoing research project in 
+&lt;a href=&#34;http://tnel.ucsd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TNEL&lt;/a&gt;, supervised by 
+&lt;a href=&#34;http://tnel.ucsd.edu/bio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Vikash Gilja&lt;/a&gt; and Dr. Tejaswy Pailla. We develope multi-task BMIs network for mapping spatio-temporal patterns in ECoG signals to finger trajectory regression and movement intent identification. More detail please
+check the slides above.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
